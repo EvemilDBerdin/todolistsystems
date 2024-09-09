@@ -30,7 +30,7 @@
             <div class="login-box card rounded">
                 <div class="card-body">
                     <form class="form-horizontal form-material" id="loginidForm" onsubmit="loginForm(event)">
-                        <h3 class="box-title m-b-20">TODO LIST SYSTEM</h3>
+                        <h3 class="box-title m-b-20 font-weight-bold">TODO LIST SYSTEM</h3>
                         <div class="form-group ">
                             <div class="col-xs-12">
                                 <input class="form-control" type="text" name="username" placeholder="Username" required>
